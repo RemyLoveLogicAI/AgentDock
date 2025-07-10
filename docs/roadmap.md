@@ -6,9 +6,9 @@ This document outlines the planned features and future direction for AgentDock. 
 
 | Feature | Description |
 |---------|-------------|
-| [**Storage Abstraction Layer**](../storage/storage-abstraction.md) | ✅ Flexible storage system with 15 production-ready adapters |
-| [**Advanced Memory Systems**](../memory/README.md) | ✅ Four-layer cognitive architecture with PRIME extraction, hybrid search, and memory connections |
-| [**Vector Storage Integration**](../storage/vector-storage.md) | ✅ Embedding-based retrieval for documents and memory (PostgreSQL + pgvector, SQLite + sqlite-vec fully integrated) |
+| [**Storage Abstraction Layer**] | ✅ Flexible storage system with 15 production-ready adapters |
+| [**Advanced Memory Systems**] | ✅ Four-layer cognitive architecture with PRIME extraction, hybrid search, and memory connections |
+| [**Vector Storage Integration**] | ✅ Embedding-based retrieval for documents and memory (PostgreSQL + pgvector, SQLite + sqlite-vec fully integrated) |
 
 ## In Progress
 

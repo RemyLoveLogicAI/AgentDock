@@ -78,19 +78,40 @@ export const docSections: DocSection[] = [
     ]
   },
 
-  // Storage section - Consolidated
+  // Storage section
   {
-    title: 'Storage & Memory',
+    title: 'Storage',
     items: [
       { path: 'storage/', title: 'Storage Overview' },
+      { path: 'storage/getting-started', title: 'Getting Started' },
       { path: 'storage/message-persistence', title: 'Message Persistence' },
       { path: 'storage/message-history', title: 'Message History Management' },
       {
-        path: 'roadmap/storage-abstraction',
+        path: 'storage/storage-abstraction',
         title: 'Storage Abstraction Layer'
       },
-      { path: 'roadmap/advanced-memory', title: 'Advanced Memory Systems' },
-      { path: 'roadmap/vector-storage', title: 'Vector Storage Integration' }
+      { path: 'storage/vector-storage', title: 'Vector Storage Integration' }
+    ]
+  },
+
+  // Memory Systems section
+  {
+    title: 'Memory Systems',
+    items: [
+      { path: 'memory/', title: 'Memory Overview' },
+      {
+        path: 'memory/complete-configuration-guide',
+        title: 'Configuration Guide'
+      },
+      { path: 'memory/architecture-overview', title: 'Architecture Overview' },
+      {
+        path: 'memory/retrieval-augmented-generation',
+        title: 'Conversational RAG'
+      },
+      { path: 'memory/memory-connections', title: 'Memory Connections' },
+      { path: 'memory/graph-architecture', title: 'Graph Architecture' },
+      { path: 'memory/consolidation-guide', title: 'Memory Consolidation' },
+      { path: 'memory/research-foundations', title: 'Research Foundations' }
     ]
   },
 

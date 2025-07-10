@@ -12,38 +12,38 @@
 ## 📚 Book Structure
 
 ### **Phase 1: Core Principles** (Chapters 1-5)
-Weekly releases from June 18 - July 16, 2025
+Weekly releases from July 2 - July 30, 2025
 
 | Chapter | Release Date | Topic | Status |
 |---------|--------------|-------|--------|
-| **[Chapter 1](./chapter-01-why-agents-matter.mdx)** | Wed, June 18 | Why AI Agents Matter | Available |
-| **Chapter 2** | Wed, June 25 | The Technical Reality of Production AI Agents | WIP |
-| **Chapter 3** | Wed, July 2 | Where AI Agents Actually Work in Production | WIP |
-| **Chapter 4** | Wed, July 9 | The Production Reality Gap: What They Don't Tell You | WIP |
-| **Chapter 5** | Wed, July 16 | The Future of AI Agents: From Hype to Production | WIP |
+| **[Chapter 1](./chapter-01-why-agents-matter.mdx)** | Wed, July 2 | Why AI Agents Matter | Available |
+| **[Chapter 2](./chapter-02-technical-reality.mdx)** | Wed, July 9 | The Technical Reality of Production AI Agents | Available |
+| **Chapter 3** | Wed, July 16 | Where AI Agents Actually Work in Production | WIP |
+| **Chapter 4** | Wed, July 23 | The Production Reality Gap: What They Don't Tell You | WIP |
+| **Chapter 5** | Wed, July 30 | The Future of AI Agents: From Hype to Production | WIP |
 
 ### **Phase 2: Advanced Implementation** (Chapters 6-9)
-*July 23 - August 13, 2025*
+*August 6 - August 27, 2025*
 
 | Chapter | Release Date | Topic | Status |
 |---------|--------------|-------|--------|
-| **Chapter 6** | Wed, July 23 | Beyond Basic RAG | TBD |
-| **Chapter 7** | Wed, July 30 | Complex Workflow Design | TBD |
-| **Chapter 8** | Wed, August 6 | Multi-Agent Coordination | TBD |
-| **Chapter 9** | Wed, August 13 | Performance Reasoning | TBD |
+| **Chapter 6** | Wed, August 6 | Beyond Basic RAG | TBD |
+| **Chapter 7** | Wed, August 13 | Complex Workflow Design | TBD |
+| **Chapter 8** | Wed, August 20 | Multi-Agent Coordination | TBD |
+| **Chapter 9** | Wed, August 27 | Performance Reasoning | TBD |
 
 ### **Phase 3: Enterprise Production** (Chapters 10-13)
-*August 20 - September 10, 2025*
+*September 3 - September 24, 2025*
 
 | Chapter | Release Date | Topic | Status |
 |---------|--------------|-------|--------|
-| **Chapter 10** | Wed, August 20 | Memory and Learning Systems | TBD |
-| **Chapter 11** | Wed, August 27 | Business-Critical Deployment | TBD |
-| **Chapter 12** | Wed, September 3 | Scale and Enterprise Integration | TBD |
-| **Chapter 13** | Wed, September 10 | MCP and Future Developments | TBD |
+| **Chapter 10** | Wed, September 3 | Memory and Learning Systems | TBD |
+| **Chapter 11** | Wed, September 10 | Business-Critical Deployment | TBD |
+| **Chapter 12** | Wed, September 17 | Scale and Enterprise Integration | TBD |
+| **Chapter 13** | Wed, September 24 | MCP and Future Developments | TBD |
 
 ### **Phase 4: Industry Applications** (Chapter 14+)
-*Starting September 17, 2025*
+*Starting October 1, 2025*
 - Healthcare, Finance, Legal, Manufacturing
 
 ---

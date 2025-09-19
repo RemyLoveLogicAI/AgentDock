@@ -31,6 +31,7 @@ const envSchema = z.object({
   SERPER_API_KEY: z.string().min(1).optional(),
   FIRECRAWL_API_KEY: z.string().min(1).optional(),
   ALPHAVANTAGE_API_KEY: z.string().min(1).optional(),
+  MEM0_API_KEY: z.string().min(1).optional(),
 
   // Application configuration
   NODE_ENV: z.enum(['development', 'production', 'test']).optional(),
@@ -65,6 +66,7 @@ export function getEnvConfig(): EnvConfig {
       SERPER_API_KEY: process.env.SERPER_API_KEY,
       FIRECRAWL_API_KEY: process.env.FIRECRAWL_API_KEY,
       ALPHAVANTAGE_API_KEY: process.env.ALPHAVANTAGE_API_KEY,
+      MEM0_API_KEY: process.env.MEM0_API_KEY,
 
       // Application configuration
       NODE_ENV: process.env.NODE_ENV,
@@ -86,6 +88,7 @@ export function getEnvConfig(): EnvConfig {
       SERPER_API_KEY: process.env.SERPER_API_KEY,
       FIRECRAWL_API_KEY: process.env.FIRECRAWL_API_KEY,
       ALPHAVANTAGE_API_KEY: process.env.ALPHAVANTAGE_API_KEY,
+      MEM0_API_KEY: process.env.MEM0_API_KEY,
       NODE_ENV: process.env.NODE_ENV as any,
       FALLBACK_API_KEY: process.env.FALLBACK_API_KEY,
       MAX_DURATION: process.env.MAX_DURATION

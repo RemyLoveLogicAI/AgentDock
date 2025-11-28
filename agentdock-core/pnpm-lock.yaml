@@ -27,8 +27,8 @@ importers:
         specifier: ^0.24.1
         version: 0.24.1
       '@upstash/redis':
-        specifier: ^1.35.0
-        version: 1.35.0
+        specifier: ^1.35.7
+        version: 1.35.7
       '@vercel/kv':
         specifier: ^1.0.1
         version: 1.0.1
@@ -1199,8 +1199,8 @@ packages:
   '@upstash/redis@1.25.1':
     resolution: {integrity: sha512-ACj0GhJ4qrQyBshwFgPod6XufVEfKX2wcaihsEvSdLYnY+m+pa13kGt1RXm/yTHKf4TQi/Dy2A8z/y6WUEOmlg==}
 
-  '@upstash/redis@1.35.0':
-    resolution: {integrity: sha512-WUm0Jz1xN4DBDGeJIi2Y0kVsolWRB2tsVds4SExaiLg4wBdHFMB+8IfZtBWr+BP0FvhuBr5G1/VLrJ9xzIWHsg==}
+  '@upstash/redis@1.35.7':
+    resolution: {integrity: sha512-bdCdKhke+kYUjcLLuGWSeQw7OLuWIx3eyKksyToLBAlGIMX9qiII0ptp8E0y7VFE1yuBxBd/3kSzJ8774Q4g+A==}
 
   '@vercel/kv@1.0.1':
     resolution: {integrity: sha512-uTKddsqVYS2GRAM/QMNNXCTuw9N742mLoGRXoNDcyECaxEXvIHG0dEY+ZnYISV4Vz534VwJO+64fd9XeSggSKw==}
@@ -4513,7 +4513,7 @@ snapshots:
     dependencies:
       crypto-js: 4.2.0
 
-  '@upstash/redis@1.35.0':
+  '@upstash/redis@1.35.7':
     dependencies:
       uncrypto: 0.1.3
 

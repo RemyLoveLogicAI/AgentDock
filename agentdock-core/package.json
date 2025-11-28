@@ -37,7 +37,7 @@
     "sentiment": "^5.0.2",
     "sqlite-vec": "^0.1.6",
     "string-comparisons": "^0.0.20",
-    "zod": "^3.25.67"
+    "zod": "^3.25.76"
   },
   "peerDependencies": {
     "@aws-sdk/client-dynamodb": "^3.830.0",

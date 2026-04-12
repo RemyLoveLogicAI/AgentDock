@@ -190,7 +190,8 @@
   "pnpm": {
     "overrides": {
       "undici": ">=5.28.5",
-      "esbuild": ">=0.25.0"
+      "esbuild": ">=0.25.0",
+      "axios": "1.15.0"
     }
   },
   "comments": {
